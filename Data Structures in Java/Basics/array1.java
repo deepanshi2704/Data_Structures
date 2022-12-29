@@ -1,4 +1,5 @@
 import java.util.*;
+
 public class array1 {
 
     public static boolean duplicate(int nums[]) {
